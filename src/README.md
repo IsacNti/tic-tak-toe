@@ -1,4 +1,4 @@
 #Tic tak toe
 
 ##använding metod
-char[][] spelplan = new char [3][3];
+char[][] spelplan = new char [4][4];
