@@ -54,7 +54,7 @@ public class tic {
                     return "draw";
                 }
             }
-            
+
             System.out.println(
                     turr + " din tur skriv nummer så skrivs "
                             + turr + " in:");
